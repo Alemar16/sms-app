@@ -3,4 +3,8 @@
 @tailwind utilities;
 
 
-
+body {
+  background: rgb(45, 51, 253);
+  background: linear-gradient(293deg, rgba(45, 51, 253, 1) 0%, rgba(34, 193, 195, 1) 100%);
+  background-attachment: fixed;
+}
